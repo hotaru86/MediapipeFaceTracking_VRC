@@ -7,7 +7,6 @@ https://github.com/Adjerry91/VRCFaceTracking-Templates
 
 ## 動作環境
 Python3.11.7で動作確認を行っています。
-Pythonをインストールしていなくても、Releaseのexeファイルを使用することで実行できるはずです。(やったことがないので分かりません。)
 
 ## 使用している推定モデル
 本アプリでは、GoogleのMediapipeが提供するFace Landmarkerモデルとして、face_landmarker_v2_with_blendshapes.taskを使用しています。
